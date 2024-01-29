@@ -7,7 +7,7 @@ directions of the research.
 
 ## **Current Projects**
 
-### 1. [ML-Driven Solution to the Lateral Pile Capacity for Long Piles in Geotechnical Engineering]([Geotechnical-Research/ML_Driven_Solution_of_long_pile.ipynb](https://github.com/rizalpurnawan23/My-Data-Science-Projects/blob/main/Geotechnical-Research/ML_Driven_Solution_of_long_pile.ipynb))
+### 1. [ML-Driven Solution to the Lateral Pile Capacity for Long Piles in Geotechnical Engineering](/Geotechnical-Research/ML_Driven_Solution_of_long_pile.ipynb)
 
 This research focuses on an innovative method for estimating lateral pile capacity in geotechnical engineering,
 building upon the theoretical groundwork laid by ([Broms, 1964a](https://doi.org/10.1061/JSFEAQ.0000611) and
@@ -19,7 +19,7 @@ polynomial equations to estimate the lateral pile capacity. The theoretical fram
 along with key performance evaluation parameters. Our results demonstrate that the ML model achieves considerable
 accuracy, offering a time-effective alternative to the conventional method of solving higher-degree polynomials.
 
-### 2. [A Numeric Optimization on a Semi-Analytic Model of Soil Swelling Potential](Geotechnical-Research/Soil_Swelling_Potential.ipynb)
+### 2. [A Numeric Optimization on a Semi-Analytic Model of Soil Swelling Potential](/Geotechnical-Research/Soil_Swelling_Potential.ipynb)
 
 We have conducted a laboratory test to investigate the soil swelling potential. A cylindrical soil sample is subjected
 to constant loading. The deformation of the sample is recorded over time. The data is then processed such that we obtain
