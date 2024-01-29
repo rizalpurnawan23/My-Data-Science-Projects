@@ -1,6 +1,6 @@
 # **About Geotechnical Engineering Research Projects**
 
-Welcome to the directory of `Geotechnical-Research`. This directory, which is part of `My-Data-Science-Projects`,
+Welcome to the directory of `Geotechnical-Research`. This directory, part of `My-Data-Science-Projects`,
 contains my research projects in Geotechnical Engineering which incorporate machine learning algorithms.
 I will usually build the underlying mathematical frameworks of the computations or the frameworks describing the
 directions of the research.
