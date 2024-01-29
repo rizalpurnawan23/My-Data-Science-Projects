@@ -7,7 +7,7 @@ directions of the research.
 
 ## **Current Projects**
 
-### 1. [ML-Driven Solution to the Lateral Pile Capacity for Long Piles in Geotechnical Engineering](Geotechnical-Research/ML_Driven_Solution_of_long_pile.ipynb)
+### 1. [ML-Driven Solution to the Lateral Pile Capacity for Long Piles in Geotechnical Engineering]([Geotechnical-Research/ML_Driven_Solution_of_long_pile.ipynb](https://github.com/rizalpurnawan23/My-Data-Science-Projects/blob/main/Geotechnical-Research/ML_Driven_Solution_of_long_pile.ipynb))
 
 This research focuses on an innovative method for estimating lateral pile capacity in geotechnical engineering,
 building upon the theoretical groundwork laid by ([Broms, 1964a](https://doi.org/10.1061/JSFEAQ.0000611) and
